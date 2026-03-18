@@ -21,6 +21,6 @@ https://karthik-2376.github.io/Random-Password_Generator/
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
